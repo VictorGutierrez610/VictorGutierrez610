@@ -2,7 +2,7 @@ Hi 👋, I’m Victor Gutierrez, Graduated in Nautical Engineering and Maritime 
  
 👀 I’m interested in Data engineer and AI 
 
-🌱 I’m currently learning Web Dev, Data and AI fundamentals  
+🌱 I’m currently learning Web Dev, Data and AI fundamentals 
 
 
 
